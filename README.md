@@ -4,7 +4,8 @@ Replicated the work of Yu, Zitong and Li, Xiaobai and Zhao, Guoying on PhysNet, 
 >&nbsp;&nbsp;&nbsp;&nbsp;author={Yu, Zitong and Li, Xiaobai and Zhao, Guoying},  
 >&nbsp;&nbsp;&nbsp;&nbsp;booktitle= {Proc. BMVC},  
 >&nbsp;&nbsp;&nbsp;&nbsp;year = {2019}  
->}  
+>}
+ 
 ![image](https://github.com/yd-14/HR-from-rPPG-using-face-video/assets/77013976/cc5a1e98-fcdc-4c9f-8470-984b0440d298)
 
 Trained the model on UBFC rPPG dataset 15 epochs on using Nvidia P100 hardware provided by kaggle.
